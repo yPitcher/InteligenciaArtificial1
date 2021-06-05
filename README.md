@@ -10,4 +10,5 @@ Eduardo Vantini
 Guilherme Peres
 
 Dúvidas;
-Não entendemos muito bem, como colocar uma rega, por exemplo "listacandidatos() :-" funciona, que tipo de entrada uma regra desse jeito recebe?
+Trabalho Pratico 1: Não entendemos muito bem, como colocar uma rega, por exemplo "listacandidatos() :-" funciona, que tipo de entrada uma regra desse jeito recebe?
+
